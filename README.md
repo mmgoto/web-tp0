@@ -5,10 +5,11 @@ Link para meu perfil na Digital Innovation One (DIO):
   Perfil
 </a>
 
-Link para baixar meu certificado na DIO:
+Link para baixar meus certificados de GIT na DIO:
 <a href="https://www.dio.me/certificate/CBA5148F">
+Certificado 1
 <a href="https://www.dio.me/certificate/E60A7836">
-  Certificados
+Certificado 2
 </a>
 
 <img src="https://fegemo.github.io/cefet-web/images/medalha-curso-git-na-dio.png">
